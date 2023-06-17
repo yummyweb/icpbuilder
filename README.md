@@ -26,6 +26,20 @@ We plan on implementing the following features in ICP Builder in the future:
 
 - Enhance UI/UX: The current user interface is very simple and minimalistic given the time period to develop the prototype, however, we do intend on customizing the design to be more intuitive and aesthetic. Furthermore, the current user experience for building an "application" using ICP Builder is considerably unintuitive, especially for those who are non-technical, hence, we plan on changing our approach of building applications, to use flowcharts or block diagrams to represent the applications.
 
-- Identities
+- Identities: ICP has a wonderful identity system for working with users and authentication. While one can login to ICP Builder with their identity, applications built using ICP Builder cannot yet leverage this system, so we definitely have this planned, to implement identities in applications.
+
+## How We Built It
+
+We have built ICP Builder using a mix of programming languages, frameworks and technologies, as follows:
+
+- **React.js:**
+
+- **Flask:**
+
+- **Kybra:**
+
+- **Python:**
+
+- **JavaScript:**
 
 ## Getting Started
