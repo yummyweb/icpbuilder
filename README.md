@@ -73,6 +73,6 @@ ICP Builder is divided in three distinct components - the frontend, the backend 
 
 ![ICP Builder landing page](https://i.ibb.co/TL70SMQ/Clean-Shot-2023-06-18-at-14-06-34-2x.png)
 ![ICP Builder dashboard page](https://i.ibb.co/j864Zn0/Clean-Shot-2023-06-18-at-14-10-38-2x.png)
-![ICP Builder create app page](https://i.ibb.co/7WSGf0h/Clean-Shot-2023-06-18-at-14-11-58-2x.png)
+![ICP Builder create app page](https://i.ibb.co/NrCCGPB/Clean-Shot-2023-06-18-at-14-29-27-2x.png)
 ![ICP Builder application page](https://i.ibb.co/XYN0x7m/Clean-Shot-2023-06-18-at-14-13-43-2x.png)
 ![ICP Builder application playground](https://i.ibb.co/3m38LqL/Clean-Shot-2023-06-18-at-14-15-01-2x.png)
