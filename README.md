@@ -42,9 +42,10 @@ We have built ICP Builder using a mix of programming languages, frameworks and t
 
 - **JavaScript:** This was our language of choice for the frontend. As the language of the web, JavaScript was the obvious choice for implementing our frontend. Moreover, we thought about using JavaScript for our backend, but decided against it, since Python was much easier for us to work with.
 
+## Getting Started
+
 ## Project Gallery
 
 ![ICP Builder landing page](https://i.ibb.co/TL70SMQ/Clean-Shot-2023-06-18-at-14-06-34-2x.png)
 ![ICP Builder dashboard page](https://i.ibb.co/j864Zn0/Clean-Shot-2023-06-18-at-14-10-38-2x.png)
-
-## Getting Started
+![ICP Builder create app page](https://i.ibb.co/7WSGf0h/Clean-Shot-2023-06-18-at-14-11-58-2x.png)
