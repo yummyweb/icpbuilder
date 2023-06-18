@@ -44,6 +44,6 @@ We have built ICP Builder using a mix of programming languages, frameworks and t
 
 ## Project Gallery
 
-[ICP Builder landing page](https://i.ibb.co/TL70SMQ/Clean-Shot-2023-06-18-at-14-06-34-2x.png)
+![ICP Builder landing page](https://i.ibb.co/TL70SMQ/Clean-Shot-2023-06-18-at-14-06-34-2x.png)
 
 ## Getting Started
