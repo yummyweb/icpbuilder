@@ -7,8 +7,7 @@
     "start": "webpack serve --mode development --env development",
     "build": "webpack",
     "prestart": "npm run copy:types",
-    "copy:types": "rsync -avr .dfx/$(echo ${DFX_NETWORK:-'**'})/canisters/icpbuilder/** --exclude='assets/' --exclude='idl/' --exclude='*.wasm' --delete src/declarations/",
-    "server:run": "nodemon src/server/index.js"
+    "copy:types": "rsync -avr .dfx/$(echo ${DFX_NETWORK:-'**'})/canisters/icpbuilder/** --exclude='assets/' --exclude='idl/' --exclude='*.wasm' --delete src/declarations/"
   },
   "author": "",
   "license": "ISC",
