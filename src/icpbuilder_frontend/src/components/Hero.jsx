@@ -96,7 +96,7 @@ export default function Hero() {
                         height={'300px'}
                         rounded={'2xl'}
                         boxShadow={'2xl'}
-                        width={'full'}
+                        width={'90%'}
                         overflow={'hidden'}>
                         <IconButton
                             aria-label={'Play Button'}
@@ -117,7 +117,7 @@ export default function Hero() {
                             w={'100%'}
                             h={'100%'}
                             src={
-                                'https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=800&q=80'
+                                'https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y29kZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=80'
                             }
                         />
                     </Box>

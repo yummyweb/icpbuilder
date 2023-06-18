@@ -22,7 +22,7 @@ We plan on implementing the following features in ICP Builder in the future:
 
 - Modes: We envision ICP Builder to be adaptable and extensive, in that, more advanced learned users should be able to customize and build their applications at a lower level than other users who may not be so advanced. Keeping this in mind, we also want to release two different modes - advanced and basic. With advanced mode, users could add programming constructs like loops or conditionals, without worrying about the underlying syntax, thereby, giving them a lot more power over their own applications. A basic mode, on the other hand, becomes very simple, allowing users to build applications, without hassle, in a jiffy. This may include, removing data types from `Objects`, to decrease complexity.
 
-- Multi-chain:
+- Multi-chain: Due to the vast number of blockchain ecosystems, the population using blockchain technology is split amongst these different ecosystems. In order to make blockchain apps accessible to the larger web3 community, ICP Builder needs to support multiple blockchains, which will lead to chain-agnostic applications, and thus, a wide variety of users will be able to use apps built with ICP Builder.
 
 - Enhance UI/UX: The current user interface is very simple and minimalistic given the time period to develop the prototype, however, we do intend on customizing the design to be more intuitive and aesthetic. Furthermore, the current user experience for building an "application" using ICP Builder is considerably unintuitive, especially for those who are non-technical, hence, we plan on changing our approach of building applications, to use flowcharts or block diagrams to represent the applications.
 
@@ -32,14 +32,18 @@ We plan on implementing the following features in ICP Builder in the future:
 
 We have built ICP Builder using a mix of programming languages, frameworks and technologies, as follows:
 
-- **React.js:**
+- **React.js:** We used React.js as our choice of frontend framework, to build a reactive user experience. Working with React.js, we were able to easily build out our user interface, and a set up a quick prototype.
 
-- **Flask:**
+- **Flask:** We were also required to use a server component in our application when building out the deployment feature since we had to compile and deploy the canisters built using ICP Builder on the server-side. With Flask, this was extremely easy and quick.
 
-- **Kybra:**
+- **Kybra:** We used Kybra by Demergent Labs to compile and run our Python-based canisters on Internet Computer. Our experience with Kybra was quite pleasant. The library seemed pretty stable and the documentation was really useful for our purpose.
 
-- **Python:**
+- **Python:** This was our language of choice for the canister code and the server-side program. For the canisters, we had a choice between many different languages, but we chose Python because it was really easy to get started with it and build a proof-of-concept in limited time. For the backend, Python was a no-brainer because our canister was also written in Python, so we just went with it.
 
-- **JavaScript:**
+- **JavaScript:** This was our language of choice for the frontend. As the language of the web, JavaScript was the obvious choice for implementing our frontend. Moreover, we thought about using JavaScript for our backend, but decided against it, since Python was much easier for us to work with.
+
+## Project Gallery
+
+[ICP Builder landing page](https://i.ibb.co/TL70SMQ/Clean-Shot-2023-06-18-at-14-06-34-2x.png)
 
 ## Getting Started
