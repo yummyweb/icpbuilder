@@ -6,6 +6,8 @@ The problem that ICP Builder aims to solve is the lack of accessible tools and r
 
 ## Solution
 
+To solve this problem, we built ICP Builder, a no-code app builder for the Internet Computer. With ICP Builder, non-technical users can build blockchain apps and onboard new web2 members on the blockchain. Therefore, we can bring the masses to blockchain technology without necessarily being tech-savvy or understanding core blockchain technologies.
+
 ## Vision
 
 Our main vision is to be able to onboard the next billion users on blockchain through no-code solutions which can reduce the barriers to adoption in blockchain.
